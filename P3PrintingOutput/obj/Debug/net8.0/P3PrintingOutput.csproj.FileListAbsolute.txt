@@ -1,0 +1,15 @@
+/Users/sidra/Game Programming GP24/Week2/gp24-102-csharp-basics-sidrasaed/P3PrintingOutput/bin/Debug/net8.0/P3PrintingOutput
+/Users/sidra/Game Programming GP24/Week2/gp24-102-csharp-basics-sidrasaed/P3PrintingOutput/bin/Debug/net8.0/P3PrintingOutput.deps.json
+/Users/sidra/Game Programming GP24/Week2/gp24-102-csharp-basics-sidrasaed/P3PrintingOutput/bin/Debug/net8.0/P3PrintingOutput.runtimeconfig.json
+/Users/sidra/Game Programming GP24/Week2/gp24-102-csharp-basics-sidrasaed/P3PrintingOutput/bin/Debug/net8.0/P3PrintingOutput.dll
+/Users/sidra/Game Programming GP24/Week2/gp24-102-csharp-basics-sidrasaed/P3PrintingOutput/bin/Debug/net8.0/P3PrintingOutput.pdb
+/Users/sidra/Game Programming GP24/Week2/gp24-102-csharp-basics-sidrasaed/P3PrintingOutput/obj/Debug/net8.0/P3PrintingOutput.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sidra/Game Programming GP24/Week2/gp24-102-csharp-basics-sidrasaed/P3PrintingOutput/obj/Debug/net8.0/P3PrintingOutput.AssemblyInfoInputs.cache
+/Users/sidra/Game Programming GP24/Week2/gp24-102-csharp-basics-sidrasaed/P3PrintingOutput/obj/Debug/net8.0/P3PrintingOutput.AssemblyInfo.cs
+/Users/sidra/Game Programming GP24/Week2/gp24-102-csharp-basics-sidrasaed/P3PrintingOutput/obj/Debug/net8.0/P3PrintingOutput.csproj.CoreCompileInputs.cache
+/Users/sidra/Game Programming GP24/Week2/gp24-102-csharp-basics-sidrasaed/P3PrintingOutput/obj/Debug/net8.0/P3PrintingOutput.sourcelink.json
+/Users/sidra/Game Programming GP24/Week2/gp24-102-csharp-basics-sidrasaed/P3PrintingOutput/obj/Debug/net8.0/P3PrintingOutput.dll
+/Users/sidra/Game Programming GP24/Week2/gp24-102-csharp-basics-sidrasaed/P3PrintingOutput/obj/Debug/net8.0/refint/P3PrintingOutput.dll
+/Users/sidra/Game Programming GP24/Week2/gp24-102-csharp-basics-sidrasaed/P3PrintingOutput/obj/Debug/net8.0/P3PrintingOutput.pdb
+/Users/sidra/Game Programming GP24/Week2/gp24-102-csharp-basics-sidrasaed/P3PrintingOutput/obj/Debug/net8.0/P3PrintingOutput.genruntimeconfig.cache
+/Users/sidra/Game Programming GP24/Week2/gp24-102-csharp-basics-sidrasaed/P3PrintingOutput/obj/Debug/net8.0/ref/P3PrintingOutput.dll
