@@ -1,0 +1,15 @@
+/Users/sidra/Game Programming GP24/Week2/gp24-102-csharp-basics-sidrasaed/P5Variables/obj/Debug/net8.0/P5Variables.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sidra/Game Programming GP24/Week2/gp24-102-csharp-basics-sidrasaed/P5Variables/obj/Debug/net8.0/P5Variables.AssemblyInfoInputs.cache
+/Users/sidra/Game Programming GP24/Week2/gp24-102-csharp-basics-sidrasaed/P5Variables/obj/Debug/net8.0/P5Variables.AssemblyInfo.cs
+/Users/sidra/Game Programming GP24/Week2/gp24-102-csharp-basics-sidrasaed/P5Variables/obj/Debug/net8.0/P5Variables.csproj.CoreCompileInputs.cache
+/Users/sidra/Game Programming GP24/Week2/gp24-102-csharp-basics-sidrasaed/P5Variables/obj/Debug/net8.0/P5Variables.sourcelink.json
+/Users/sidra/Game Programming GP24/Week2/gp24-102-csharp-basics-sidrasaed/P5Variables/bin/Debug/net8.0/P5Variables
+/Users/sidra/Game Programming GP24/Week2/gp24-102-csharp-basics-sidrasaed/P5Variables/bin/Debug/net8.0/P5Variables.deps.json
+/Users/sidra/Game Programming GP24/Week2/gp24-102-csharp-basics-sidrasaed/P5Variables/bin/Debug/net8.0/P5Variables.runtimeconfig.json
+/Users/sidra/Game Programming GP24/Week2/gp24-102-csharp-basics-sidrasaed/P5Variables/bin/Debug/net8.0/P5Variables.dll
+/Users/sidra/Game Programming GP24/Week2/gp24-102-csharp-basics-sidrasaed/P5Variables/bin/Debug/net8.0/P5Variables.pdb
+/Users/sidra/Game Programming GP24/Week2/gp24-102-csharp-basics-sidrasaed/P5Variables/obj/Debug/net8.0/P5Variables.dll
+/Users/sidra/Game Programming GP24/Week2/gp24-102-csharp-basics-sidrasaed/P5Variables/obj/Debug/net8.0/refint/P5Variables.dll
+/Users/sidra/Game Programming GP24/Week2/gp24-102-csharp-basics-sidrasaed/P5Variables/obj/Debug/net8.0/P5Variables.pdb
+/Users/sidra/Game Programming GP24/Week2/gp24-102-csharp-basics-sidrasaed/P5Variables/obj/Debug/net8.0/P5Variables.genruntimeconfig.cache
+/Users/sidra/Game Programming GP24/Week2/gp24-102-csharp-basics-sidrasaed/P5Variables/obj/Debug/net8.0/ref/P5Variables.dll
