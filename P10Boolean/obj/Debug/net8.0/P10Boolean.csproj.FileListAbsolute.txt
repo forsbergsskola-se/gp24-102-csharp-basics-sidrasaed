@@ -1,0 +1,15 @@
+/Users/sidra/Game Programming GP24/Week2/gp24-102-csharp-basics-sidrasaed/P10Boolean/bin/Debug/net8.0/P10Boolean
+/Users/sidra/Game Programming GP24/Week2/gp24-102-csharp-basics-sidrasaed/P10Boolean/bin/Debug/net8.0/P10Boolean.deps.json
+/Users/sidra/Game Programming GP24/Week2/gp24-102-csharp-basics-sidrasaed/P10Boolean/bin/Debug/net8.0/P10Boolean.runtimeconfig.json
+/Users/sidra/Game Programming GP24/Week2/gp24-102-csharp-basics-sidrasaed/P10Boolean/bin/Debug/net8.0/P10Boolean.dll
+/Users/sidra/Game Programming GP24/Week2/gp24-102-csharp-basics-sidrasaed/P10Boolean/bin/Debug/net8.0/P10Boolean.pdb
+/Users/sidra/Game Programming GP24/Week2/gp24-102-csharp-basics-sidrasaed/P10Boolean/obj/Debug/net8.0/P10Boolean.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sidra/Game Programming GP24/Week2/gp24-102-csharp-basics-sidrasaed/P10Boolean/obj/Debug/net8.0/P10Boolean.AssemblyInfoInputs.cache
+/Users/sidra/Game Programming GP24/Week2/gp24-102-csharp-basics-sidrasaed/P10Boolean/obj/Debug/net8.0/P10Boolean.AssemblyInfo.cs
+/Users/sidra/Game Programming GP24/Week2/gp24-102-csharp-basics-sidrasaed/P10Boolean/obj/Debug/net8.0/P10Boolean.csproj.CoreCompileInputs.cache
+/Users/sidra/Game Programming GP24/Week2/gp24-102-csharp-basics-sidrasaed/P10Boolean/obj/Debug/net8.0/P10Boolean.sourcelink.json
+/Users/sidra/Game Programming GP24/Week2/gp24-102-csharp-basics-sidrasaed/P10Boolean/obj/Debug/net8.0/P10Boolean.dll
+/Users/sidra/Game Programming GP24/Week2/gp24-102-csharp-basics-sidrasaed/P10Boolean/obj/Debug/net8.0/refint/P10Boolean.dll
+/Users/sidra/Game Programming GP24/Week2/gp24-102-csharp-basics-sidrasaed/P10Boolean/obj/Debug/net8.0/P10Boolean.pdb
+/Users/sidra/Game Programming GP24/Week2/gp24-102-csharp-basics-sidrasaed/P10Boolean/obj/Debug/net8.0/P10Boolean.genruntimeconfig.cache
+/Users/sidra/Game Programming GP24/Week2/gp24-102-csharp-basics-sidrasaed/P10Boolean/obj/Debug/net8.0/ref/P10Boolean.dll
