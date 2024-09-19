@@ -8,6 +8,7 @@ int hours = remainingsecs / (3600);
 remainingsecs  %= (3600) ;
 int minutes = remainingsecs / 60;
 int seconds = remainingsecs % (60);
+double Totalnumberofseconds = Convert.ToDouble(Totalsecs);
 
 Console.WriteLine("Days: " + days);
 Console.WriteLine("Hours: " + hours);
@@ -15,7 +16,7 @@ Console.WriteLine("Minutes: " + minutes);
 Console.WriteLine("Seconds: " + seconds);
 Console.WriteLine("D" + days +" "+ "H" + hours +" "+ "M" + minutes +" "+ "S" + seconds);
 
-Console.WriteLine("$In total, that's {floatdays} Days.");
+Console.WriteLine("$In total, that's  Days " + Totalnumberofseconds/86400) ;
 //P09_01SpeedConverter
 Console.WriteLine("Write speed in Km/h");
 string speed = Console.ReadLine();
