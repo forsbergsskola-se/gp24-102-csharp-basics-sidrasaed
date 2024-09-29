@@ -1,0 +1,15 @@
+/Users/sidra/Game Programming GP24/Week2/gp24-102-csharp-basics-sidrasaed/Nim/bin/Debug/net8.0/Nim
+/Users/sidra/Game Programming GP24/Week2/gp24-102-csharp-basics-sidrasaed/Nim/bin/Debug/net8.0/Nim.deps.json
+/Users/sidra/Game Programming GP24/Week2/gp24-102-csharp-basics-sidrasaed/Nim/bin/Debug/net8.0/Nim.runtimeconfig.json
+/Users/sidra/Game Programming GP24/Week2/gp24-102-csharp-basics-sidrasaed/Nim/bin/Debug/net8.0/Nim.dll
+/Users/sidra/Game Programming GP24/Week2/gp24-102-csharp-basics-sidrasaed/Nim/bin/Debug/net8.0/Nim.pdb
+/Users/sidra/Game Programming GP24/Week2/gp24-102-csharp-basics-sidrasaed/Nim/obj/Debug/net8.0/Nim.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sidra/Game Programming GP24/Week2/gp24-102-csharp-basics-sidrasaed/Nim/obj/Debug/net8.0/Nim.AssemblyInfoInputs.cache
+/Users/sidra/Game Programming GP24/Week2/gp24-102-csharp-basics-sidrasaed/Nim/obj/Debug/net8.0/Nim.AssemblyInfo.cs
+/Users/sidra/Game Programming GP24/Week2/gp24-102-csharp-basics-sidrasaed/Nim/obj/Debug/net8.0/Nim.csproj.CoreCompileInputs.cache
+/Users/sidra/Game Programming GP24/Week2/gp24-102-csharp-basics-sidrasaed/Nim/obj/Debug/net8.0/Nim.sourcelink.json
+/Users/sidra/Game Programming GP24/Week2/gp24-102-csharp-basics-sidrasaed/Nim/obj/Debug/net8.0/Nim.dll
+/Users/sidra/Game Programming GP24/Week2/gp24-102-csharp-basics-sidrasaed/Nim/obj/Debug/net8.0/refint/Nim.dll
+/Users/sidra/Game Programming GP24/Week2/gp24-102-csharp-basics-sidrasaed/Nim/obj/Debug/net8.0/Nim.pdb
+/Users/sidra/Game Programming GP24/Week2/gp24-102-csharp-basics-sidrasaed/Nim/obj/Debug/net8.0/Nim.genruntimeconfig.cache
+/Users/sidra/Game Programming GP24/Week2/gp24-102-csharp-basics-sidrasaed/Nim/obj/Debug/net8.0/ref/Nim.dll
