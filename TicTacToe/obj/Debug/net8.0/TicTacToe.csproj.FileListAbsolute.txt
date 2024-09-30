@@ -1,0 +1,5 @@
+/Users/sidra/Game Programming GP24/Week2/gp24-102-csharp-basics-sidrasaed/TicTacToe/obj/Debug/net8.0/TicTacToe.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sidra/Game Programming GP24/Week2/gp24-102-csharp-basics-sidrasaed/TicTacToe/obj/Debug/net8.0/TicTacToe.AssemblyInfoInputs.cache
+/Users/sidra/Game Programming GP24/Week2/gp24-102-csharp-basics-sidrasaed/TicTacToe/obj/Debug/net8.0/TicTacToe.AssemblyInfo.cs
+/Users/sidra/Game Programming GP24/Week2/gp24-102-csharp-basics-sidrasaed/TicTacToe/obj/Debug/net8.0/TicTacToe.csproj.CoreCompileInputs.cache
+/Users/sidra/Game Programming GP24/Week2/gp24-102-csharp-basics-sidrasaed/TicTacToe/obj/Debug/net8.0/TicTacToe.sourcelink.json
