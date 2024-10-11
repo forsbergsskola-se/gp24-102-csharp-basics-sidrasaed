@@ -1,0 +1,15 @@
+/Users/sidra/Game Programming GP24/Week2/gp24-102-csharp-basics-sidrasaed/P4Comments/obj/Debug/net8.0/P4Comments.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sidra/Game Programming GP24/Week2/gp24-102-csharp-basics-sidrasaed/P4Comments/obj/Debug/net8.0/P4Comments.AssemblyInfoInputs.cache
+/Users/sidra/Game Programming GP24/Week2/gp24-102-csharp-basics-sidrasaed/P4Comments/obj/Debug/net8.0/P4Comments.AssemblyInfo.cs
+/Users/sidra/Game Programming GP24/Week2/gp24-102-csharp-basics-sidrasaed/P4Comments/obj/Debug/net8.0/P4Comments.csproj.CoreCompileInputs.cache
+/Users/sidra/Game Programming GP24/Week2/gp24-102-csharp-basics-sidrasaed/P4Comments/obj/Debug/net8.0/P4Comments.sourcelink.json
+/Users/sidra/Game Programming GP24/Week2/gp24-102-csharp-basics-sidrasaed/P4Comments/bin/Debug/net8.0/P4Comments
+/Users/sidra/Game Programming GP24/Week2/gp24-102-csharp-basics-sidrasaed/P4Comments/bin/Debug/net8.0/P4Comments.deps.json
+/Users/sidra/Game Programming GP24/Week2/gp24-102-csharp-basics-sidrasaed/P4Comments/bin/Debug/net8.0/P4Comments.runtimeconfig.json
+/Users/sidra/Game Programming GP24/Week2/gp24-102-csharp-basics-sidrasaed/P4Comments/bin/Debug/net8.0/P4Comments.dll
+/Users/sidra/Game Programming GP24/Week2/gp24-102-csharp-basics-sidrasaed/P4Comments/bin/Debug/net8.0/P4Comments.pdb
+/Users/sidra/Game Programming GP24/Week2/gp24-102-csharp-basics-sidrasaed/P4Comments/obj/Debug/net8.0/P4Comments.dll
+/Users/sidra/Game Programming GP24/Week2/gp24-102-csharp-basics-sidrasaed/P4Comments/obj/Debug/net8.0/refint/P4Comments.dll
+/Users/sidra/Game Programming GP24/Week2/gp24-102-csharp-basics-sidrasaed/P4Comments/obj/Debug/net8.0/P4Comments.pdb
+/Users/sidra/Game Programming GP24/Week2/gp24-102-csharp-basics-sidrasaed/P4Comments/obj/Debug/net8.0/P4Comments.genruntimeconfig.cache
+/Users/sidra/Game Programming GP24/Week2/gp24-102-csharp-basics-sidrasaed/P4Comments/obj/Debug/net8.0/ref/P4Comments.dll
